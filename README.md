@@ -1,29 +1,34 @@
 # Getting started in ML-audio
 
-Audio and acoustics students ask "How do I get started learning machine learning?"  
-This page began after S.H. got sufficiently embarassed about not having a coherant answer. 
+(Musical) Audio and acoustics students sometimes ask "How do I get started learning machine learning?"  
+This page began after S.H. felt sufficiently embarassed about not having a coherant answer.
 
-*This is a collaborative page. Feel free to submit additions, corrections, etc.*
+*This is a collaborative page. Feel free to suggest additions, edits, updates, etc.*
 
 ## Autobiographical Sketches
 Many of us took very different paths.  Here are some stories.
 * How `__your name_here__` got started
 * How `__someone else__` got started
+* `__[another person]'s__` story
 
 
 
 ## Tutorials
 
 ## Online Courses
-* Andrew Ng's Coursera Course
-* Fast.ai 
+* [Andrew Ng's ML Course](https://www.coursera.org/learn/machine-learning) on Coursera
+* [Fast.ai](https://www.fast.ai)
+* Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze
 
-## Demos 
+## Demos
 
-## Key Papers
+## Key Papers 
 
-## Computer Science Topics
+## Packages & Libraries
+* [Librosa](https://librosa.github.io/librosa/)
+
+## Computer-Related Topics
 
 ## Signal Processing Topics
 
-## Statistics Topics
+## Statistics / Math Topics
