@@ -1,47 +1,62 @@
 # Getting Started in 'ML-Audio'
-
+Suggestions for students.
 ## About
-Audio and acoustics students sometimes ask "How do I get started learning  machine learning?"   This page began after S.H. felt sufficiently embarassed about not having a coherent answer. Until someone creates a "ML for Audio" online course, this page may prove helpful.   
+Audio and acoustics students sometimes ask "How do I get started learning  machine learning?"   This page began after @drscotthawley felt sufficiently embarassed about not having a coherent answer. Until someone creates a "ML for Audio" online course, this page may prove helpful.
 
 
 Notes:
-- ***This is a collaborative page. Please suggest additions, edits, updates, etc., either via Issues or Pull Requests.***
+- ***This is a collaborative page. Please suggest additions, edits, updates, etc., either via Issues or Pull Requests.***  *(In addition, @drscotthawley may gladly cede control of this content to whichever student or group wants to Wiki-fy it!)*
 - This page is bound to be **biased** toward musical audio and deep neural network methods. Inclusion of other domains and methods -- e.g., Gaussian Processes, NMF, RBMs,... -- will depend on your submissions!
-- The field advances rapidly. Some topics listed here will be timeless, others will go obsolete; help us keep it up to date!
+- The field advances rapidly. Some topics listed here will be timeless, others will go obsolete.  Such is the nature of the field. Let's try to keep this relevant, at least for "getting started." 
 
 
 ## Introductory Remarks
 "Read all the tutorials and papers you can, watch videos of all the talks you can, try out and modify whatever code you can get your hands on, take whatever courses you can find, go to whatever conferences you can.  Try to build your own system, and spend all your nights and weekends improving it."  
 
-Such was the best advice some of us could give, because it was the path we took. Some of those stories are shared below.  This page is an attempt to offer something more "direct" for newcomers. 
+This was the best advice some of us could give, because it was the path we took. Some such stories are shared below.  This page is an attempt to offer something more "direct" for newcomers. 
 
-Nevertheless, such reflective narratives may provide helpful perspectives...
+Nevertheless, a few reflective narratives may provide helpful perspectives...
 
 
-## Autobiographical Sketches / Recommendations
-Many of us took very different *interdisciplinary* paths, learning from a hodgepodge information, in order complement our existing strengths and fill in gaps in our knowledge.  Here are some stories.
+## Essays / Reflections / Autobiographical Sketches
+Many practicioners took very different *interdisciplinary* paths, learning from a hodgepodge of information, in order to complement their existing strengths and fill in gaps in their knowledge.  Here are some stories.
 
 *(For submissions: Either link to elsewhere on the web, or add a file to the repo via PR. Try to make submissions conclude with a section on what you would say to new students.)*
 
-* How `__[your name here]__` got started
-* `__[another person]'s__` story
-* `__[so-and-so]'s__` suggestions
-* Words of wisdom from `__[noted practicioner]__`
+* How `__[someone]__` got started 
+* `__[a young person]'s__` story 
+* The *N*-step Process that `__[this person]__` thinks all students should follow
+* `__[a long-time veteran]'s__` view of the field 
+* Where `__[a hot-shot postdoc]__` thinks the field is heading 
+* Things `__[so-and-so]__` wishes someone had told him/her
+* ...your name(s) here!...
 
+
+## Quick Quotes
+* [Justin Salomon](https://twitter.com/justin_salamon/status/1202016519720300545): "Anyone working in ML, *anyone*, should be *obliged* to curate a dataset before they're allowed to train a single model. The lessons learnt in the process are invaluable, and the dangers of skipping said lessons are manifold (see what I did there?)"
+* `__[so-and-so]'s__` suggestion
+* A nugget of wisdom from `__[noted practicioner]__`
 
 
 ## Tutorials
-* Andrew Trask's ["Anyone Can Learn To Code an LSTM-RNN in Python"](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) (is what got S.H. hooked on ML)
+(I'm often underwhelmed with audio-specific tutorials, actually.  No offense! Feel free to suggest some.  Here are a couple on related topics that I've found inspiring)
+* Andrew Trask's ["Anyone Can Learn To Code an LSTM-RNN in Python"](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) 
+* Yuge Shi's ["Gaussian Processes, Not Quite for Dummies"](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 
+## Videos
+that we found helpful/inspiring (and are hopefully still relevant)
+* Paris Smaragdis at SANE 2015: ["NMF? Neural Nets? It’s all the same..."](https://www.youtube.com/watch?v=wfmpViJIjWw)
+* Ron Weiss at SANE 2015: ["Training neural network acoustic models on waveforms"](https://www.youtube.com/watch?v=sI_8EA0_ha8)
+* Jordi Pons at DLBCN 2018: ["Training neural audio classifiers with few data"](https://www.youtube.com/watch?v=AJ-XM07wSjg)
 
 ## Online ML Courses
 * [Andrew Ng's ML Course](https://www.coursera.org/learn/machine-learning) on Coursera (Good all-around ML course)
 * [Fast.ai](https://www.fast.ai) (Can get you up and running fast)
-* Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (no math!)
+* Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (No math!)
 
 ## Key Papers / Codes
 (Let's try to list "representative" or "landmark" papers, not just our latest tweak, unless it includes a really good intro/review section. ;-) )
-* Choi et al, ["Automatic tagging using deep convolutional neural networks"](https://arxiv.org/abs/1606.00298) (ISMIR 2016 Best Paper)
+* Keunwoo Choi et al, ["Automatic tagging using deep convolutional neural networks"](https://arxiv.org/abs/1606.00298) (ISMIR 2016 Best Paper)
 * [SampleRNN](https://arxiv.org/abs/1612.07837)
 * [WaveNet](https://arxiv.org/pdf/1609.03499.pdf)
 * [WaveRNN, i.e. "Efficient Neural Audio Synthesis"](https://arxiv.org/abs/1802.08435)
@@ -57,6 +72,12 @@ Many of us took very different *interdisciplinary* paths, learning from a hodgep
 ## Packages & Libraries
 * [Librosa](https://librosa.github.io/librosa/)
 
+
+## Tools / GUIs / Gists
+* Jesse Engel's [gist to plot "rainbowgrams"](https://gist.github.com/jesseengel/e223622e255bd5b8c9130407397a0494)
+
+
+
 ## Books?
 
 
@@ -69,6 +90,23 @@ Python: [learnpython.org](https://www.learnpython.org/)
 
 ## News / Social Media to Follow
 Twitter:  (this could get really long!)
+
+
+## Datasets (raw audio)
+One finds that many supposed "audio datasets" are really only features or even just metadata!  Here are some "raw audio" datasets:
+* [NSynth](https://magenta.tensorflow.org/datasets/nsynth) Musical Instruments
+* [GTZAN Genre Collection](http://marsyas.info/downloads/datasets.html)  (Note [critique by Bob Sturm](https://arxiv.org/abs/1306.1461))
+* [Fraunhofer IDMT Guitar/Bass Effects](https://www.idmt.fraunhofer.de/en/business_units/m2d/smt/audio_effects.html)
+* [Urban Sound Dataset](serv.cusp.nyu.edu/projects/urbansounddataset)
+* [FreeSound Annotator](https://annotator.freesound.org/) (formerly FreeSound Datasets)
+* [Birdvox-Full-Night](https://wp.nyu.edu/birdvox/birdvox-full-night/)
+* [SignalTrain LA2A](https://zenodo.org/record/3348083)
+* [Kaggle Heartbeat Sounds](https://www.kaggle.com/kinguistics/heartbeat-sounds)
+* Search for other [audio datasets at Kaggle](https://www.kaggle.com/datasets?tags=16072-audio+data) (list)
+* See this [Long list at audiocontentanalysis.org](https://www.audiocontentanalysis.org/data-sets/), but only some are raw audio
+* Another [list of "audio datasets" by Christopher Dossman](https://towardsdatascience.com/a-data-lakes-worth-of-audio-datasets-b45b88cd4ad)
+* ...your dataset here...
+
 
 ## "Major" ML-Audio Research/Development Groups
 #### Universities:
@@ -103,3 +141,17 @@ Twitter:  (this could get really long!)
 
 ## Journals
 ("Where can I get published?")
+
+
+
+
+
+## Competitions / Benchmarks
+Some are yearly, some may be defunct but still interesting.
+* [MIREX](https://www.music-ir.org/mirex/wiki/MIREX_HOME)
+* `__some source-separation challenge__`
+* [Kaggle Heartbeat Sounds](https://www.kaggle.com/kinguistics/heartbeat-sounds)
+
+
+## Contributors
+If you want your name listed here, you may. ;-) 
