@@ -6,8 +6,8 @@ Audio and acoustics students sometimes ask "How do I get started learning  machi
 
 Notes:
 - ***This is a collaborative page. Please suggest additions, edits, updates, etc., either via Issues or Pull Requests.***
-- This page is bound to be **biased** toward musical audio and deep neural network methods. Inclusion of other domains and methods will depend on your submissions!
-- The field advances rapidly. Some topics listed here will be timeless, others will go obsolete.
+- This page is bound to be **biased** toward musical audio and deep neural network methods. Inclusion of other domains and methods -- e.g., Gaussian Processes, NMF, RBMs,... -- will depend on your submissions!
+- The field advances rapidly. Some topics listed here will be timeless, others will go obsolete; help us keep it up to date!
 
 
 ## Introductory Remarks
@@ -21,7 +21,7 @@ Nevertheless, such reflective narratives may provide helpful perspectives...
 ## Autobiographical Sketches / Recommendations
 Many of us took very different *interdisciplinary* paths, learning from a hodgepodge information, in order complement our existing strengths and fill in gaps in our knowledge.  Here are some stories.
 
-*(Suggestion: try to make submissions conclude with a section on "what you would say to new students.")*
+*(For submissions: Either link to elsewhere on the web, or add a file to the repo via PR. Try to make submissions conclude with a section on what you would say to new students.)*
 
 * How `__[your name here]__` got started
 * `__[another person]'s__` story
@@ -39,14 +39,26 @@ Many of us took very different *interdisciplinary* paths, learning from a hodgep
 * [Fast.ai](https://www.fast.ai) (Can get you up and running fast)
 * Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (no math!)
 
-## Books
+## Key Papers / Codes
+(Let's try to list "representative" or "landmark" papers, not just our latest tweak, unless it includes a really good intro/review section. ;-) )
+* Choi et al, ["Automatic tagging using deep convolutional neural networks"](https://arxiv.org/abs/1606.00298) (ISMIR 2016 Best Paper)
+* [SampleRNN](https://arxiv.org/abs/1612.07837)
+* [WaveNet](https://arxiv.org/pdf/1609.03499.pdf)
+* [WaveRNN, i.e. "Efficient Neural Audio Synthesis"](https://arxiv.org/abs/1802.08435)
+* [GANSynth](https://magenta.tensorflow.org/gansynth)
+* ...more...
 
 ## Demos
+(Not sure if this only means "deployed models you can play with in your browser," or if other things should count as demos)
+* Chris Donahue's [WaveGAN Demo](https://chrisdonahue.com/wavegan/)
+* Scott Hawley's [SignalTrain Demo](http://www.signaltrain.ml/)
 
-## Key Papers
 
 ## Packages & Libraries
 * [Librosa](https://librosa.github.io/librosa/)
+
+## Books?
+
 
 ## Computer-Related Topics
 Python: [learnpython.org](https://www.learnpython.org/)
