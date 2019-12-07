@@ -71,6 +71,7 @@ that we found helpful/inspiring (and are hopefully still relevant)
 
 ## Packages & Libraries
 * [Librosa](https://librosa.github.io/librosa/)
+* [Audiomentations, data augmentation for audio](https://github.com/iver56/audiomentations)
 
 
 ## Tools / GUIs / Gists
