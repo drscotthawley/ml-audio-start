@@ -40,7 +40,10 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 
 ## Tutorials
 (I'm often underwhelmed with audio-specific tutorials, actually.  No offense! Feel free to suggest some.  Here are a couple on related topics that I've found inspiring)
-* Andrew Trask's ["Anyone Can Learn To Code an LSTM-RNN in Python"](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) 
+* Andrew Trask's ["Anyone Can Learn To Code an LSTM-RNN in Python"](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+* [Neural Network Programming, Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg) (Learn how to program neural networks using PyTorch) 
+* [Machine Learning & Deep Learning Fundamentals](https://deeplizard.com/learn/video/gZmobeGL0Yg) (Good high level intro to ML concepts and how neural networks operate)
+Signal Processing Topics:
 * Yuge Shi's ["Gaussian Processes, Not Quite for Dummies"](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 
 ## Videos
@@ -86,8 +89,10 @@ that we found helpful/inspiring (and are hopefully still relevant)
 Python: [learnpython.org](https://www.learnpython.org/)
 
 ## Signal Processing Topics
+* [Advanced Digital Signal Processing](https://github.com/GuitarsAI/ADSP_Tutorials) series taught by Dr.-Ing Gerald Schuller of Fraunhofer IDMT, with [videos](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6) and acommpanying Jupyter notebooks by [Renato Profeta](https://twitter.com/guitars_ai) 
 
 ## Statistics / Math Topics
+* Gradient Descent https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html , https://en.wikipedia.org/wiki/Gradient_descent , https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html
 
 ## News / Social Media to Follow
 Twitter:  (this could get really long!)
@@ -155,4 +160,6 @@ Some are yearly, some may be defunct but still interesting.
 
 
 ## Contributors
-If you want your name listed here, you may. ;-) 
+Ryan Miller
+
+*If you want your name listed here, you may. ;-)* 
