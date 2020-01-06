@@ -56,6 +56,7 @@ that we found helpful/inspiring (and are hopefully still relevant)
 * [Andrew Ng's ML Course](https://www.coursera.org/learn/machine-learning) on Coursera (Good all-around ML course)
 * [Fast.ai](https://www.fast.ai) (Can get you up and running fast)
 * Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (No math!)
+* [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg)
 
 ## Key Papers / Codes
 (Let's try to list "representative" or "landmark" papers, not just our latest tweak, unless it includes a really good intro/review section. ;-) )
