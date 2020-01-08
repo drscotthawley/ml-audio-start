@@ -63,8 +63,6 @@ that we found helpful/inspiring (and are hopefully still relevant)
 * Ron Weiss at SANE 2015: ["Training neural network acoustic models on waveforms"](https://www.youtube.com/watch?v=sI_8EA0_ha8)
 * Jordi Pons at DLBCN 2018: ["Training neural audio classifiers with few data"](https://www.youtube.com/watch?v=AJ-XM07wSjg)
 
-* https://deeplizard.com/learn/video/v5cngxo4mIg)
-
 ## Key Papers / Codes
 (Let's try to list "representative" or "landmark" papers, not just our latest tweak, unless it includes a really good intro/review section. ;-) )
 * Keunwoo Choi et al, ["Automatic tagging using deep convolutional neural networks"](https://arxiv.org/abs/1606.00298) (ISMIR 2016 Best Paper)
