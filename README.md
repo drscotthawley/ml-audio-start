@@ -1,11 +1,13 @@
 # Getting Started in 'ML-Audio'
 Suggestions for students.
 ## About
-Audio and acoustics students sometimes ask "How do I get started learning  machine learning?"   This page began after @drscotthawley felt sufficiently embarassed about not having a coherent answer. Until someone creates a "ML for Audio" online course, this page may prove helpful.
+Audio and acoustics students sometimes ask "How do I get started learning  machine learning?"  Not everyone gets their start in a major research environment.   
+
+This page began after @drscotthawley felt sufficiently embarassed about not having a coherent answer. Until someone creates a "ML for Audio" online course -- **update 1/7/20:** See Valerio Velardo's ["Deep Learning for Audio"](https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)! -- this page may prove helpful.
 
 
 Notes:
-- ***This is a collaborative page. Please suggest additions, edits, updates, etc., either via Issues or Pull Requests.***  *(In addition, @drscotthawley may gladly cede control of this content to whichever student or group wants to Wiki-fy it!)*
+- ***This is a collaborative page. Please suggest additions, re-organizations, edits, updates, etc., either via Issues or Pull Requests.***  *(In addition, @drscotthawley may gladly cede control of this content to whichever student or group wants to Wiki-fy it!)*
 - This page is bound to be **biased** toward musical audio and deep neural network methods. Inclusion of other domains and methods -- e.g., Gaussian Processes, NMF, RBMs,... -- will depend on your submissions!
 - The field advances rapidly. Some topics listed here will be timeless, others will go obsolete.  Such is the nature of the field. Let's try to keep this relevant, at least for "getting started." 
 
@@ -29,7 +31,7 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 * `__[a long-time veteran]'s__` view of the field 
 * Where `__[a hot-shot postdoc]__` thinks the field is heading 
 * Things `__[so-and-so]__` wishes someone had told him/her
-* ...your name(s) here!...
+* ...your name(s) here!...**Chris Donahue, Christian Steinmetz, Jordi Pons, Keunwoo Choi, Faro, Justin Salomon,...?**
 
 
 ## Quick Quotes
@@ -37,8 +39,17 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 * `__[so-and-so]'s__` suggestion
 * A nugget of wisdom from `__[noted practicioner]__`
 
+## Online Courses
+
+* [Valerio Velardo's "Deep Learning for Audio"](https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
+* [Andrew Ng's ML Course](https://www.coursera.org/learn/machine-learning) on Coursera (Good all-around ML course)
+* [Fast.ai](https://www.fast.ai) (Can get you up and running fast)
+* Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (No math!)
+* [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg)
+* [Advanced Digital Signal Processing](https://github.com/GuitarsAI/ADSP_Tutorials) series taught by Dr.-Ing Gerald Schuller of Fraunhofer IDMT, with [videos](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6) and acommpanying Jupyter notebooks by [Renato Profeta](https://twitter.com/guitars_ai) 
 
 ## Tutorials
+
 (I'm often underwhelmed with audio-specific tutorials, actually.  No offense! Feel free to suggest some.  Here are a couple on related topics that I've found inspiring)
 * Andrew Trask's ["Anyone Can Learn To Code an LSTM-RNN in Python"](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 * [Neural Network Programming, Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg) (Learn how to program neural networks using PyTorch) 
@@ -46,17 +57,13 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 Signal Processing Topics:
 * Yuge Shi's ["Gaussian Processes, Not Quite for Dummies"](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 
-## Videos
+## Talks (at conferences)
 that we found helpful/inspiring (and are hopefully still relevant)
 * Paris Smaragdis at SANE 2015: ["NMF? Neural Nets? It’s all the same..."](https://www.youtube.com/watch?v=wfmpViJIjWw)
 * Ron Weiss at SANE 2015: ["Training neural network acoustic models on waveforms"](https://www.youtube.com/watch?v=sI_8EA0_ha8)
 * Jordi Pons at DLBCN 2018: ["Training neural audio classifiers with few data"](https://www.youtube.com/watch?v=AJ-XM07wSjg)
 
-## Online ML Courses
-* [Andrew Ng's ML Course](https://www.coursera.org/learn/machine-learning) on Coursera (Good all-around ML course)
-* [Fast.ai](https://www.fast.ai) (Can get you up and running fast)
-* Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (No math!)
-* [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg)
+* https://deeplizard.com/learn/video/v5cngxo4mIg)
 
 ## Key Papers / Codes
 (Let's try to list "representative" or "landmark" papers, not just our latest tweak, unless it includes a really good intro/review section. ;-) )
@@ -81,9 +88,9 @@ that we found helpful/inspiring (and are hopefully still relevant)
 ## Tools / GUIs / Gists
 * Jesse Engel's [gist to plot "rainbowgrams"](https://gist.github.com/jesseengel/e223622e255bd5b8c9130407397a0494)
 
+## Books
 
-
-## Books?
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) online book.  How drscotthawley first started reading.
 
 
 ## Computer-Related Topics
@@ -93,7 +100,12 @@ Python: [learnpython.org](https://www.learnpython.org/)
 * [Advanced Digital Signal Processing](https://github.com/GuitarsAI/ADSP_Tutorials) series taught by Dr.-Ing Gerald Schuller of Fraunhofer IDMT, with [videos](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6) and acommpanying Jupyter notebooks by [Renato Profeta](https://twitter.com/guitars_ai) 
 
 ## Statistics / Math Topics
-* Gradient Descent https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html , https://en.wikipedia.org/wiki/Gradient_descent , https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html
+* Gradient Descent 
+  * https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html ,
+  *  https://en.wikipedia.org/wiki/Gradient_descent ,
+  *  https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html,
+  *   ["Following Gravity"](https://drscotthawley.github.io/Following-Gravity/) by @drscotthawley
+* Principal Component Analysis:  ["PCA From Scratch"](https://drscotthawley.github.io/PCA-From-Scratch/) by @drscotthawley
 
 ## News / Social Media to Follow
 Twitter:  (this could get really long!)
