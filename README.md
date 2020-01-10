@@ -47,6 +47,7 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 * Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (No math!)
 * [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg)
 * [Advanced Digital Signal Processing](https://github.com/GuitarsAI/ADSP_Tutorials) series taught by Dr.-Ing Gerald Schuller of Fraunhofer IDMT, with [videos](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6) and acommpanying Jupyter notebooks by [Renato Profeta](https://twitter.com/guitars_ai) 
+* [Notes on Music Information Retreival](https://musicinformationretrieval.com/)
 
 ## Tutorials
 
@@ -54,10 +55,6 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 * Andrew Trask's ["Anyone Can Learn To Code an LSTM-RNN in Python"](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 * [Neural Network Programming, Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg) (Learn how to program neural networks using PyTorch) 
 * [Machine Learning & Deep Learning Fundamentals](https://deeplizard.com/learn/video/gZmobeGL0Yg) (Good high level intro to ML concepts and how neural networks operate)
-
-## Signal Processing Topics:
-* Yuge Shi's ["Gaussian Processes, Not Quite for Dummies"](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
-* Gradient Descent - ["Wiki"](https://en.wikipedia.org/wiki/Gradient_descent), ["Machine Learning Cheatsheet"](https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html), ["KD Nuggets"](https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
 
 ## Talks (at conferences)
 that we found helpful/inspiring (and are hopefully still relevant)
@@ -95,10 +92,14 @@ that we found helpful/inspiring (and are hopefully still relevant)
 
 
 ## Computer-Related Topics
-Python: [learnpython.org](https://www.learnpython.org/)
+Python: 
+* [learnpython.org](https://www.learnpython.org/)
+* Python notebooks for [fundamentals of music processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
+
 
 ## Signal Processing Topics
 * [Advanced Digital Signal Processing](https://github.com/GuitarsAI/ADSP_Tutorials) series taught by Dr.-Ing Gerald Schuller of Fraunhofer IDMT, with [videos](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6) and acommpanying Jupyter notebooks by [Renato Profeta](https://twitter.com/guitars_ai) 
+* Yuge Shi's ["Gaussian Processes, Not Quite for Dummies"](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 
 ## Statistics / Math Topics
 * Gradient Descent 
