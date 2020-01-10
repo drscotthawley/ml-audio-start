@@ -81,6 +81,7 @@ that we found helpful/inspiring (and are hopefully still relevant)
 ## Packages & Libraries
 * [Librosa](https://librosa.github.io/librosa/)
 * [Audiomentations, data augmentation for audio](https://github.com/iver56/audiomentations)
+* [tf.signal: signal processing for TensorFlow](https://www.tensorflow.org/api_docs/python/tf/signal)
 
 
 ## Tools / GUIs / Gists
