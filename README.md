@@ -137,7 +137,7 @@ One finds that many supposed "audio datasets" are really only features or even j
 
 #### Industry:
 ("Where can I get an internship/job"?)
-* Google Magenta
+* [Google Magenta](https://magenta.tensorflow.org)
 * [Google Perception](https://research.google/teams/perception/) ([speech publications](https://research.google/pubs/?team=perception&area=speech-processing))
 * Adobe
 * Spotify
