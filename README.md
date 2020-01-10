@@ -72,7 +72,7 @@ that we found helpful/inspiring (and are hopefully still relevant)
 * [WaveNet](https://arxiv.org/pdf/1609.03499.pdf)
 * [WaveRNN, i.e. "Efficient Neural Audio Synthesis"](https://arxiv.org/abs/1802.08435)
 * [GANSynth](https://magenta.tensorflow.org/gansynth)
-* ...more...
+* [Wave-U-Net](https://arxiv.org/pdf/1806.03185.pdf)
 
 ## Demos
 (Not sure if this only means "deployed models you can play with in your browser," or if other things should count as demos)
