@@ -54,8 +54,10 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 * Andrew Trask's ["Anyone Can Learn To Code an LSTM-RNN in Python"](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 * [Neural Network Programming, Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg) (Learn how to program neural networks using PyTorch) 
 * [Machine Learning & Deep Learning Fundamentals](https://deeplizard.com/learn/video/gZmobeGL0Yg) (Good high level intro to ML concepts and how neural networks operate)
-Signal Processing Topics:
+
+## Signal Processing Topics:
 * Yuge Shi's ["Gaussian Processes, Not Quite for Dummies"](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
+* Gradient Descent - ["Wiki"](https://en.wikipedia.org/wiki/Gradient_descent), ["Machine Learning Cheatsheet"](https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html), ["KD Nuggets"](https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
 
 ## Talks (at conferences)
 that we found helpful/inspiring (and are hopefully still relevant)
