@@ -172,11 +172,11 @@ One finds that many supposed "audio datasets" are really only features or even j
 ## Competitions / Benchmarks
 Some are yearly, some may be defunct but still interesting.
 * [MIREX](https://www.music-ir.org/mirex/wiki/MIREX_HOME)
-* `__some source-separation challenge__`
+* [SiSEC](https://sisec18.unmix.app/#/) (Signal Separation Evaluation Campaign)
 * [Kaggle Heartbeat Sounds](https://www.kaggle.com/kinguistics/heartbeat-sounds)
 
 
 ## Contributors
-Ryan Miller
+[Ryan Miller](https://www.linkedin.com/in/ryan-miller-1aa8355a/)
 
 *If you want your name listed here, you may. ;-)* 
