@@ -8,17 +8,12 @@ This page began after @drscotthawley felt sufficiently embarassed about not havi
 
 Notes:
 - ***This is a collaborative page. Please suggest additions, re-organizations, edits, updates, etc., either via Issues or Pull Requests.***  *(In addition, @drscotthawley may gladly cede control of this content to whichever student or group wants to Wiki-fy it!)*
-- This page is bound to be **biased** toward musical audio and deep neural network methods. Inclusion of other domains and methods -- e.g., Gaussian Processes, NMF, RBMs,... -- will depend on your submissions!
-- The field advances rapidly. Some topics listed here will be timeless, others will go obsolete.  Such is the nature of the field. Let's try to keep this relevant, at least for "getting started." 
 
 
 ## Introductory Remarks
 "Read all the tutorials and papers you can, watch videos of all the talks you can, try out and modify whatever code you can get your hands on, take whatever courses you can find, go to whatever conferences you can.  Try to build your own system, and spend all your nights and weekends improving it."  
 
 This was the best advice some of us could give, because it was the path we took. Some such stories are shared below.  This page is an attempt to offer something more "direct" for newcomers. 
-
-Nevertheless, a few reflective narratives may provide helpful perspectives...
-
 
 ## Essays / Reflections / Autobiographical Sketches
 Many practicioners took very different *interdisciplinary* paths, learning from a hodgepodge of information, in order to complement their existing strengths and fill in gaps in their knowledge.  Here are some stories.
@@ -27,10 +22,6 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 
 * How `__[someone]__` got started 
 * `__[a young person]'s__` story 
-* The *N*-step Process that `__[this person]__` thinks all students should follow
-* `__[a long-time veteran]'s__` view of the field 
-* Where `__[a hot-shot postdoc]__` thinks the field is heading 
-* Things `__[so-and-so]__` wishes someone had told him/her
 * ...your name(s) here!...**Chris Donahue, Christian Steinmetz, Jordi Pons, Keunwoo Choi, Faro, Justin Salomon,...?**
 
 
