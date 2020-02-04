@@ -36,16 +36,16 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 * [Andrew Ng's ML Course](https://www.coursera.org/learn/machine-learning) on Coursera (Good all-around ML course)
 * [Fast.ai](https://www.fast.ai) (Can get you up and running fast)
 * Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (No math!)
-* [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg)
+* [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg). Learn how to code an image predictor neural network in Pytorch. Provides practical NN fundamentals
 * [Advanced Digital Signal Processing](https://github.com/GuitarsAI/ADSP_Tutorials) series taught by Dr.-Ing Gerald Schuller of Fraunhofer IDMT, with [videos](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6) and acommpanying Jupyter notebooks by [Renato Profeta](https://twitter.com/guitars_ai) 
 * [Notes on Music Information Retreival](https://musicinformationretrieval.com/)
 * [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) taught by [David Rosenberg](https://bloomberg.github.io/foml/#people)
+* [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html) - A reference resource for common ML math topics, definitions, concepts, etc.
 
 ## Tutorials
 
 (I'm often underwhelmed with audio-specific tutorials, actually.  No offense! Feel free to suggest some.  Here are a couple on related topics that I've found inspiring)
-* Andrew Trask's ["Anyone Can Learn To Code an LSTM-RNN in Python"](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
-* [Neural Network Programming, Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg) (Learn how to program neural networks using PyTorch) 
+* Andrew Trask's ["Anyone Can Learn To Code an LSTM-RNN in Python"](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) 
 * [Machine Learning & Deep Learning Fundamentals](https://deeplizard.com/learn/video/gZmobeGL0Yg) (Good high level intro to ML concepts and how neural networks operate)
 
 ## Talks (at conferences)
