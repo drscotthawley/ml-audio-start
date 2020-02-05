@@ -30,6 +30,10 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 * `__[so-and-so]'s__` suggestion
 * A nugget of wisdom from `__[noted practicioner]__`
 
+## General Reference Information
+* [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html) - A reference resource for common ML math topics, definitions, concepts, etc.
+* [Notes on Music Information Retreival](https://musicinformationretrieval.com/)
+
 ## Online Courses
 
 * [Valerio Velardo's "Deep Learning for Audio"](https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
@@ -38,9 +42,9 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 * Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (No math!)
 * [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg). Learn how to code an image predictor neural network in Pytorch. Provides practical NN fundamentals
 * [Advanced Digital Signal Processing](https://github.com/GuitarsAI/ADSP_Tutorials) series taught by Dr.-Ing Gerald Schuller of Fraunhofer IDMT, with [videos](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6) and acommpanying Jupyter notebooks by [Renato Profeta](https://twitter.com/guitars_ai) 
-* [Notes on Music Information Retreival](https://musicinformationretrieval.com/)
+
 * [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) taught by [David Rosenberg](https://bloomberg.github.io/foml/#people)
-* [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html) - A reference resource for common ML math topics, definitions, concepts, etc.
+
 
 ## Tutorials
 
