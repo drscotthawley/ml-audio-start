@@ -27,8 +27,6 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 
 ## Quick Quotes
 * [Justin Salomon](https://twitter.com/justin_salamon/status/1202016519720300545): "Anyone working in ML, *anyone*, should be *obliged* to curate a dataset before they're allowed to train a single model. The lessons learnt in the process are invaluable, and the dangers of skipping said lessons are manifold (see what I did there?)"
-* `__[so-and-so]'s__` suggestion
-* A nugget of wisdom from `__[noted practicioner]__`
 
 ## General Reference Information
 * [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html) - A reference resource for common ML math topics, definitions, concepts, etc.
@@ -42,7 +40,6 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 * Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (No math!)
 * [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg). Learn how to code an image predictor neural network in Pytorch. Provides practical NN fundamentals
 * [Advanced Digital Signal Processing](https://github.com/GuitarsAI/ADSP_Tutorials) series taught by Dr.-Ing Gerald Schuller of Fraunhofer IDMT, with [videos](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6) and acommpanying Jupyter notebooks by [Renato Profeta](https://twitter.com/guitars_ai) 
-
 * [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) taught by [David Rosenberg](https://bloomberg.github.io/foml/#people)
 
 
@@ -57,6 +54,7 @@ that we found helpful/inspiring (and are hopefully still relevant)
 * Paris Smaragdis at SANE 2015: ["NMF? Neural Nets? It’s all the same..."](https://www.youtube.com/watch?v=wfmpViJIjWw)
 * Ron Weiss at SANE 2015: ["Training neural network acoustic models on waveforms"](https://www.youtube.com/watch?v=sI_8EA0_ha8)
 * Jordi Pons at DLBCN 2018: ["Training neural audio classifiers with few data"](https://www.youtube.com/watch?v=AJ-XM07wSjg)
+* Sander Dieleman at ISMIR 2019: ["Generating Music in the Waveform Domain"](https://benanne.github.io/2020/03/24/audio-generation.html?fbclid=IwAR3nw8WLrT3ZVFrz4AsxNeoufUllqHQO4wFvH3bafqfjJDJArnm5s2VOxLM)
 
 ## Key Papers / Codes
 (Let's try to list "representative" or "landmark" papers, not just our latest tweak, unless it includes a really good intro/review section. ;-) )
@@ -71,6 +69,8 @@ that we found helpful/inspiring (and are hopefully still relevant)
 (Not sure if this only means "deployed models you can play with in your browser," or if other things should count as demos)
 * Chris Donahue's [WaveGAN Demo](https://chrisdonahue.com/wavegan/)
 * Scott Hawley's [SignalTrain Demo](http://www.signaltrain.ml/)
+* Neil Zeghidour and David Grangier's [Wavesplit](https://soundcloud.com/wavesplitdemo)
+* David Samuel, Aditya Ganeshan, and Jason Naradowsky's [Meta-TasNet](https://paperswithcode.com/paper/meta-learning-extractors-for-music-source)
 
 
 ## Packages & Libraries
@@ -100,9 +100,9 @@ Python:
 ## Statistics / Math Topics
 * Gradient Descent 
   * https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html ,
-  *  https://en.wikipedia.org/wiki/Gradient_descent ,
-  *  https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html,
-  *   ["Following Gravity"](https://drscotthawley.github.io/Following-Gravity/) by @drscotthawley
+  * https://en.wikipedia.org/wiki/Gradient_descent ,
+  * https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html,
+  * ["Following Gravity"](https://drscotthawley.github.io/Following-Gravity/) by @drscotthawley
 * Principal Component Analysis:  ["PCA From Scratch"](https://drscotthawley.github.io/PCA-From-Scratch/) by @drscotthawley
 
 ## News / Social Media to Follow
