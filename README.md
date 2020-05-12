@@ -103,6 +103,7 @@ Python:
 * [Advanced Digital Signal Processing](https://github.com/GuitarsAI/ADSP_Tutorials) series taught by Dr.-Ing Gerald Schuller of Fraunhofer IDMT, with [videos](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6) and acommpanying Jupyter notebooks by [Renato Profeta](https://twitter.com/guitars_ai) 
 * Yuge Shi's ["Gaussian Processes, Not Quite for Dummies"](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 
+
 ## Statistics / Math Topics
 * Gradient Descent 
   * https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html ,
@@ -110,9 +111,6 @@ Python:
   * https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html,
   * ["Following Gravity"](https://drscotthawley.github.io/Following-Gravity/) by @drscotthawley
 * Principal Component Analysis:  ["PCA From Scratch"](https://drscotthawley.github.io/PCA-From-Scratch/) by @drscotthawley
-
-## News / Social Media to Follow
-Twitter:  (this could get really long!)
 
 
 ## Datasets (raw audio)
@@ -165,10 +163,7 @@ One finds that many supposed "audio datasets" are really only features or even j
 
 ## Journals
 ("Where can I get published?")
-
-
-
-
+Many of the conferences & societies listed above maintain journals. In addition, in machine learning specifically, the tendency is for conference papers to be peer-reviewed and to "count" as journal publications.
 
 ## Competitions / Benchmarks
 Some are yearly, some may be defunct but still interesting.
