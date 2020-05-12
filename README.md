@@ -126,7 +126,7 @@ One finds that many supposed "audio datasets" are really only features or even j
 * [SignalTrain LA2A](https://zenodo.org/record/3348083)
 * [Kaggle Heartbeat Sounds](https://www.kaggle.com/kinguistics/heartbeat-sounds)
 * Search for other [audio datasets at Kaggle](https://www.kaggle.com/datasets?tags=16072-audio+data) (list)
-* See this [Long list at audiocontentanalysis.org](https://www.audiocontentanalysis.org/data-sets/), but only some are raw audio
+* [A collated list of MIR datasets can be found here](https://github.com/ismir/mir-datasets), which is the source for [audiocontentanalysis.org](https://www.audiocontentanalysis.org/data-sets/),but only some are raw audio
 * Another [list of "audio datasets" by Christopher Dossman](https://towardsdatascience.com/a-data-lakes-worth-of-audio-datasets-b45b88cd4ad)
 * ...your dataset here...
 
@@ -134,7 +134,7 @@ One finds that many supposed "audio datasets" are really only features or even j
 ## "Major" ML-Audio Research/Development Groups
 #### Universities:
 (or, "Where should I apply for grad school?")
-* QMU (London)
+* QMUL (London)
 * UPF (Barcelona)
 * CRRMA (Stanford, San Francisco)
 * IRCAM (Paris)
@@ -151,22 +151,45 @@ One finds that many supposed "audio datasets" are really only features or even j
 ## Conferences
 ("Which conference(s) should I go to?" -- asked by student on the day this doc began)
 #### Audio-Specific
-* AES
+**Long list of Music Technology specific conferences [https://conferences.smcnetwork.org/](https://conferences.smcnetwork.org/) - which is references from here [https://github.com/MTG/conferences](https://github.com/MTG/conferences)
+* Audio Engineering Society (AES)
 * ASA
-* DAFx
+* Digital Audio Effects (DAFx)
 * ICASSP
 * ISMIR
 * SANE
+* Web Audio Conference (WAC)
+* SMC
+* LVA/ICA
+* Audio Mostly
+* WIMP
+* DCASE
+* CSMC
+* MuMe
+* ICMC
+* CMMR
+* IBAC
+* MLSP
+* Interspeech
+* FMA
 
 #### General ML
 * ICLR
 * ICML
 * NeurIPS
+* IJCNN
+* 
 
 ## Journals
 ("Where can I get published?")
 
-
+* [IEEE TASLP](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing)
+* [JAES](http://www.aes.org/journal/)
+* [CMJ](http://computermusicjournal.org/)
+* [JNMR](https://www.tandfonline.com/toc/nnmr20/current)
+* [TISMIR](https://transactions.ismir.net/)
+* [JASA](https://asa.scitation.org/journal/jas)
+* EURASIP Journal on Audio Speech and Music Processing 
 
 
 
