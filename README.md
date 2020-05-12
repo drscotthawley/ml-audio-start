@@ -25,6 +25,12 @@ Many practicioners took very different *interdisciplinary* paths, learning from 
 * ...your name(s) here!...**Chris Donahue, Christian Steinmetz, Jordi Pons, Keunwoo Choi, Faro, Justin Salomon,...?**
 
 
+## Active Practictioners to Follow
+Many of us learn about and contribue to news of new developments, papers, conferences, grants, and networking opportunities via [Twitter](http://www.twitter.com).
+
+* [Audio ML Twitter list](https://twitter.com/i/lists/1260142677884121088) by Fabian-Robert Stöter (@faroit).  **<-- Follow these people!**
+
+
 ## Quick Quotes
 * [Justin Salomon](https://twitter.com/justin_salamon/status/1202016519720300545): "Anyone working in ML, *anyone*, should be *obliged* to curate a dataset before they're allowed to train a single model. The lessons learnt in the process are invaluable, and the dangers of skipping said lessons are manifold (see what I did there?)"
 
