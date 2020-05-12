@@ -80,7 +80,8 @@ that we found helpful/inspiring (and are hopefully still relevant)
 
 
 ## Packages & Libraries
-* [Librosa](https://librosa.github.io/librosa/)
+* [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) Curated list of python software and packages related to scientific research in audio
+* [Librosa](https://librosa.github.io/librosa/) Great package for various kinds of audio analysis and manipulation
 * [Audiomentations, data augmentation for audio](https://github.com/iver56/audiomentations)
 * [tf.signal: signal processing for TensorFlow](https://www.tensorflow.org/api_docs/python/tf/signal)
 * [fastai_audio](https://github.com/mogwai/fastai_audio) (and [fastai2_audio](https://github.com/rbracco/fastai2_audio)), audio libraries for [Fast.ai](https://www.fast.ai) library/[MOOC](https://course.fast.ai). Primarily for image, text & tabular data processing, there are efforts to add audio. (Work in progress.)
