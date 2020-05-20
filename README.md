@@ -12,15 +12,6 @@ Audio and acoustics students sometimes ask "How do I get started learning  machi
 
 This was the best advice some of us could give, because it was the path we took. Some such stories are shared below.  This page is an attempt to offer something more "direct" for newcomers. 
 
-## Essays / Reflections / Autobiographical Sketches
-Many practicioners took very different *interdisciplinary* paths, learning from a hodgepodge of information, in order to complement their existing strengths and fill in gaps in their knowledge.  Here are some stories.
-
-*(For submissions: Either link to elsewhere on the web, or add a file to the repo via PR. Try to make submissions conclude with a section on what you would say to new students.)*
-
-* How `__[someone]__` got started 
-* `__[a young person]'s__` story 
-* ...your name(s) here!...**Chris Donahue, Christian Steinmetz, Jordi Pons, Keunwoo Choi, Faro, Justin Salomon,...?**
-
 
 ## Active Practictioners to Follow
 Many of us learn about and contribue to news of new developments, papers, conferences, grants, and networking opportunities via [Twitter](http://www.twitter.com).
