@@ -1,12 +1,9 @@
 # Getting Started in 'ML-Audio'
 Suggestions for students.
+
 ## About
-Audio and acoustics students sometimes ask "How do I get started learning  machine learning?"  Not everyone gets their start in a major research environment.   
+Audio and acoustics students sometimes ask "How do I get started learning  machine learning?"  Not everyone gets their start in a major research environment, so this page is intended to serve as a series of suggestions for those who may find themselves "on their own" in their interest in this area.  It was started by @drscotthawley and [Ryan Miller](https://www.linkedin.com/in/ryan-miller-1aa8355a/), but is intended to serve and evolve with the community. 
 
-This page began after @drscotthawley felt sufficiently embarassed about not having a coherent answer. Until someone creates a "ML for Audio" online course -- **update 1/7/20:** See Valerio Velardo's ["Deep Learning for Audio"](https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)! -- this page may prove helpful.
-
-
-Notes:
 - ***This is a collaborative page. Please suggest additions, re-organizations, edits, updates, etc., either via Issues or Pull Requests.***  *(In addition, @drscotthawley may gladly cede control of this content to whichever student or group wants to Wiki-fy it!)*
 
 
