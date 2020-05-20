@@ -41,6 +41,7 @@ Many of us learn about and contribue to news of new developments, papers, confer
 ## Online Courses
 
 * [Valerio Velardo's "Deep Learning for Audio"](https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
+* [Jordi Pons' "Deep neural networks for music teaching materials"](http://www.jordipons.me/apps/teaching-materials/).
 * [Andrew Ng's ML Course](https://www.coursera.org/learn/machine-learning) on Coursera (Good all-around ML course)
 * [Fast.ai](https://www.fast.ai) (Can get you up and running fast)
 * Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (No math!)
@@ -51,7 +52,6 @@ Many of us learn about and contribue to news of new developments, papers, confer
 
 ## Tutorials
 
-(I'm often underwhelmed with audio-specific tutorials, actually.  No offense! Feel free to suggest some.  Here are a couple on related topics that I've found inspiring)
 * Andrew Trask's ["Anyone Can Learn To Code an LSTM-RNN in Python"](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) 
 * [Machine Learning & Deep Learning Fundamentals](https://deeplizard.com/learn/video/gZmobeGL0Yg) (Good high level intro to ML concepts and how neural networks operate)
 
