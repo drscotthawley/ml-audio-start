@@ -6,13 +6,6 @@ Audio and acoustics students sometimes ask "How do I get started learning  machi
 
 - ***This is a collaborative page. Please suggest additions, re-organizations, edits, updates, etc., either via Issues or Pull Requests.***  *(In addition, @drscotthawley may gladly cede control of this content to whichever student or group wants to Wiki-fy it!)*
 
-
-## Introductory Remarks
-"Read all the tutorials and papers you can, watch videos of all the talks you can, try out and modify whatever code you can get your hands on, take whatever courses you can find, go to whatever conferences you can.  Try to build your own system, and spend all your nights and weekends improving it."  
-
-This was the best advice some of us could give, because it was the path we took. Some such stories are shared below.  This page is an attempt to offer something more "direct" for newcomers. 
-
-
 ## Active Practictioners to Follow
 Many of us learn about and contribue to news of new developments, papers, conferences, grants, and networking opportunities via [Twitter](http://www.twitter.com).
 
