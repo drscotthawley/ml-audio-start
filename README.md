@@ -41,7 +41,7 @@ Many of us learn about and contribue to news of new developments, papers, confer
 ## Online Courses
 
 * [Valerio Velardo's "Deep Learning for Audio"](https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
-* [Jordi Pons' "Deep neural networks for music teaching materials"](http://www.jordipons.me/apps/teaching-materials/).
+* [Jordi Pons' "Deep neural networks for music teaching materials"](http://www.jordipons.me/apps/teaching-materials/)
 * [Andrew Ng's ML Course](https://www.coursera.org/learn/machine-learning) on Coursera (Good all-around ML course)
 * [Fast.ai](https://www.fast.ai) (Can get you up and running fast)
 * Rebecca Fiebrink's [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) on Kadenze  (No math!)
