@@ -14,6 +14,9 @@ Many of us learn about and contribue to news of new developments, papers, confer
 ## Quick Quotes
 * [Justin Salomon](https://twitter.com/justin_salamon/status/1202016519720300545): "Anyone working in ML, *anyone*, should be *obliged* to curate a dataset before they're allowed to train a single model. The lessons learnt in the process are invaluable, and the dangers of skipping said lessons are manifold (see what I did there?)"
 
+## Best Practices
+["Tips for Publishing Research Code"](https://github.com/paperswithcode/releasing-research-code) courtesy of  [Papers with Code](https://paperswithcode.com/)
+
 ## General Reference Information
 * [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html) - A reference resource for common ML math topics, definitions, concepts, etc.
 * [Notes on Music Information Retreival](https://musicinformationretrieval.com/)
