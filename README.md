@@ -74,6 +74,7 @@ Talks we found helpful/inspiring (and are hopefully still relevant). TODO: add m
 ## Books
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) online book.  How drscotthawley first started reading.
+* [Open-Source Tools & Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html) by By Ethan Manilow, Prem Seetharaman, and Justin Salamon (2020). An online, interactive book with Python examples! 
 
 
 ## Computer-Related Topics
