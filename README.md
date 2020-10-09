@@ -85,7 +85,8 @@ Python:
 
 ## Signal Processing Topics
 * [Advanced Digital Signal Processing](https://github.com/GuitarsAI/ADSP_Tutorials) series taught by Dr.-Ing Gerald Schuller of Fraunhofer IDMT, with [videos](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6) and acommpanying Jupyter notebooks by [Renato Profeta](https://twitter.com/guitars_ai) 
-* Yuge Shi's ["Gaussian Processes, Not Quite for Dummies"](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
+* [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/) by Jez Swanson. (so good!)
+* Yuge Shi's ["Gaussian Processes, Not Quite for Dummies"](https://thegradient.pub/gaussian-process-not-quite-for-dummies/) (GPs get used for *much* more than signal processing, but are also promising there; feel free to suggest a different category for this content)
 
 
 ## Statistics / Math Topics
