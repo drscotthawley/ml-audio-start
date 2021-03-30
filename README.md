@@ -140,8 +140,8 @@ One finds that many supposed "audio datasets" are really only features or even j
 
 ### Other DIY Audio Dataset Tricks
 
-Depending on your application, you might be able to get away with using *samples* produced by virtual instruments (i.e. MIDI). 
-
+* Depending on your application, you might be able to get away with using *samples* produced by virtual instruments (i.e. MIDI). 
+* If you don't have a lot of labels or targets, you can still pretrain your represenations & weights using autoregressive predictions (even for different audio domains) -- this amounts to doing your own Transfer Learning even without a pretrained model. (This strategy was used by FastAI's text language model system "ULMFit")
 
 ### Cleaning Audio Datasets?
 With images, you can quickly look at many of them almost at once. 
