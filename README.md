@@ -136,7 +136,7 @@ One finds that many supposed "audio datasets" are really only features or even j
 
 ### Scrapers
 
-* https://github.com/carlthome/audio-scraper: "Scrape audio from YouTube and SoundCloud with a simple command-line interface", e.g. audio-scraper "acoustic guitar". It's 5 years old but it worked!
+* https://github.com/carlthome/audio-scraper: "Scrape audio from YouTube and SoundCloud with a simple command-line interface", e.g. `audio-scraper "acoustic guitar"`. It's 5 years old, but it still works in 2021!
 
 ### Other DIY Audio Dataset Tricks
 
