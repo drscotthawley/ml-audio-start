@@ -106,13 +106,61 @@ One finds that many supposed "audio datasets" are really only features or even j
 * [Fraunhofer IDMT Guitar/Bass Effects](https://www.idmt.fraunhofer.de/en/business_units/m2d/smt/audio_effects.html)
 * [Urban Sound Dataset](serv.cusp.nyu.edu/projects/urbansounddataset)
 * [FreeSound Annotator](https://annotator.freesound.org/) (formerly FreeSound Datasets)
+* [FSD50K dataset (from FreeSound)](https://annotator.freesound.org/fsd/release/FSD50K/)
+* [AudioSet](https://research.google.com/audioset)
 * [Birdvox-Full-Night](https://wp.nyu.edu/birdvox/birdvox-full-night/)
 * [SignalTrain LA2A](https://zenodo.org/record/3348083)
 * [Kaggle Heartbeat Sounds](https://www.kaggle.com/kinguistics/heartbeat-sounds)
+* [Electric Guitars](http://www.rptecnologias.com/research/guitar-dataset) by Renato Profeta ("Guitars AI") of Fraunhofer IDMT
 * Search for other [audio datasets at Kaggle](https://www.kaggle.com/datasets?tags=16072-audio+data) (list)
 * [A collated list of MIR datasets can be found here](https://github.com/ismir/mir-datasets), which is the source for [audiocontentanalysis.org](https://www.audiocontentanalysis.org/data-sets/),but only some are raw audio
 * Another [list of "audio datasets" by Christopher Dossman](https://towardsdatascience.com/a-data-lakes-worth-of-audio-datasets-b45b88cd4ad)
 * ...your dataset here...
+
+## DIY Audio Dataset-Making:
+
+(Inspired by [Nathan Sepulveda](https://twitter.com/nateysepy))
+
+### Searchable resources:
+* FreeSound: https://freesound.org/
+
+* Internet Archive audio: https://archive.org/details/audio
+
+* https://search.audioburst.com/ - speech only. you're searching transcripts.
+
+* https://www.mp3juices.cc/ - searches YouTube, lets you download MP3 by pressing a button for each one.
+
+* https://sounds.com/ from National Instruments, but it won't be free!
+
+* https://www.findsounds.com/ meh.
+
+### Scrapers
+
+* https://github.com/carlthome/audio-scraper: "Scrape audio from YouTube and SoundCloud with a simple command-line interface", e.g. audio-scraper "acoustic guitar". It's 5 years old but it worked!
+
+### Other DIY Audio Dataset Tricks
+
+Depending on your application, you might be able to get away with using *samples* produced by virtual instruments (i.e. MIDI). 
+
+
+### Cleaning Audio Datasets?
+With images, you can quickly look at many of them almost at once. 
+With audio, you have to listen to *each one*.  But take a cue from fast.ai's Jeremy Howard: 
+
+> "It's easier to clean a dataset once you've trained a model."  
+
+So we can train the model, and then look for high-loss / low-confidence ratings for certain samples: those should be the ones we should check *first*. 
+
+Could even start with someone else's pretrained model and look for anomalies when running inference on your data, i.e. similar inputs *should* yield similar outputs, so if they don't...?
+
+#### Length of audio?
+You might be able to find short samples of exactly what you need, but it's also common to have the desired audio be just a part of a much longer clip.  How to segment it and keep just what you want? You could use other people's models, e.g. for detecting speech or guitars:
+* Delete what you don't want: Audio you might get off YouTube needs to be segmented in order to make it useful -- the stuff you don't want needs to be cut out.  If you're looking for musical audio, you could use a *speech detector* (there are lots of them available) and then *delete or ignore all the speech*. 
+* What if all you want is the guitar solo, not the whole song?  Someone else's pretrained model for detecting guitars could help you.
+
+#### Are we classifying or regressing?
+
+Standards are a lot higher for regression systems, e.g. phase errors / time alignment issues probably won't matter to a classifier, but might for a regression model, depending on the goal. What about clipping, distortion,...?  This will depend on what you're trying to do. 
 
 
 ## "Major" ML-Audio Research/Development Groups
