@@ -233,6 +233,6 @@ Some are yearly, some may be defunct but still interesting.
 
 
 ## Contributors
-[Ryan Miller](https://www.linkedin.com/in/ryan-miller-1aa8355a/)
+[Ryan Miller](https://www.linkedin.com/in/ryan-miller-1aa8355a/), RJ Skerry-Ryan, Dave Moffat, Jesse Engel, Iver Jordal
 
 *If you want your name listed here, you may. ;-)* 
