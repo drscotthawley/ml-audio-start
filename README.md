@@ -115,6 +115,7 @@ One finds that many supposed "audio datasets" are really only features or even j
 * Search for other [audio datasets at Kaggle](https://www.kaggle.com/datasets?tags=16072-audio+data) (list)
 * [A collated list of MIR datasets can be found here](https://github.com/ismir/mir-datasets), which is the source for [audiocontentanalysis.org](https://www.audiocontentanalysis.org/data-sets/),but only some are raw audio
 * Another [list of "audio datasets" by Christopher Dossman](https://towardsdatascience.com/a-data-lakes-worth-of-audio-datasets-b45b88cd4ad)
+* [A list of ai audio datasets by Yuan Man](https://github.com/Yuan-ManX/ai-audio-datasets-list)
 * ...your dataset here...
 
 ## DIY Audio Dataset-Making:
